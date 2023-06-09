@@ -4,6 +4,7 @@
 A Student Management System is a software application allowing users to manage students data of an organization. This project involves designing and developing a program that provides users with a convenient and free way to manage student data. The primary objective of the system is to allows users to automate the process of storing, updating, and retrieving student data. The system also includes an administrative panel for managing various fields of student's personal information
 
 # Topics Used
+
 • Classes and Objects
 • Inheritance
 • File Handling
