@@ -5,14 +5,14 @@ A Student Management System is a software application allowing users to manage s
 
 # Topics Used
 
-• Classes and Objects
-• Inheritance
-• File Handling
-• Functions
-• Switch cases
-• If else conditions
-• Pointers
-• Dynamic Memory Allocation
+- Classes and Objects
+- Inheritance
+- File Handling
+- Functions
+- Switch cases
+- If else conditions
+- Pointers
+- Dynamic Memory Allocation
 
 # Conclusion
 The Student Management System in C++ is an implementation of a software system that uses object-oriented programming (OOP) concepts to provide a solution for adding,removing and changing student's personal information. It also provides security features such as password protection to ensure the confidentiality of the student information. This project is a practical application of OOP principles, such as encapsulation, inheritance, and polymorphism, which have been used to design and implement the system. The system provides a user-friendly interface that allows users to see their complete personal information. The administrator has access to additional features like changing fields and search among various studentts.
