@@ -25,7 +25,7 @@ Username : jiit
 
 Password : 62128
 
-= LOGIN DETAIL FOR STUDENT :-
+- LOGIN DETAIL FOR STUDENT :-
 
 Username : student
 
