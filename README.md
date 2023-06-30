@@ -19,13 +19,13 @@ The Student Management System in C++ is an implementation of a software system t
 
 # Login Credentials
 
-LOGIN DETAIL FOR ADMIN :-
+- LOGIN DETAIL FOR ADMIN :-
 
 Username : jiit
 
 Password : 62128
 
-LOGIN DETAIL FOR STUDENT :-
+= LOGIN DETAIL FOR STUDENT :-
 
 Username : student
 
